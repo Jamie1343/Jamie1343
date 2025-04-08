@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Byte Bot Discord Bot](https://github.com/Jamie1343/ByteBot-Discord-Bot)<br><br>- 🌱 I’m currently learning **NextJS, C++**<br><br>- As well as [Byte Bot Dashboard](https://github.com/Jamie1343/Bytebot-Dashboard)<br>
+- 🔭 I’m currently working on [Byte Bot Discord Bot](https://github.com/Jamie1343/ByteBot-Discord-Bot)<br> <br>- As well as [Byte Bot Dashboard](https://github.com/Jamie1343/Bytebot-Dashboard)<br> <br>- 🌱 I’m currently learning **NextJS, C++**<br>
 
 
 # 💻 Tech Stack:
